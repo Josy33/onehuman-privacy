@@ -15,7 +15,7 @@ OneHuman is a personal safety network app that allows users to quickly notify th
 
 ## Contact
 
-For questions about these policies or OneHuman: [your-email]
+For questions about these policies or OneHuman: hello@onehumanapp.com
 
 ## Status
 
