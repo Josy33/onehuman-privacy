@@ -5,7 +5,7 @@ This repository contains the legal documents for the OneHuman mobile application
 ## Documents
 
 - [Privacy Policy](privacy-policy.md)
-- [Terms of Service](terms-of-service.md) *(if you add it later)*
+- [Terms of Service](terms-of-service.md) 
 
 ## About OneHuman
 
