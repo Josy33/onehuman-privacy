@@ -73,7 +73,7 @@ We may update this Privacy Policy as the app develops. We will notify users of m
 
 ## Contact Information
 
-For privacy concerns or questions about this policy, please contact: onehuman116@gmail.com 
+For privacy concerns or questions about this policy, please contact: hello@onehumanapp.com
 
 ## Important Note
 
